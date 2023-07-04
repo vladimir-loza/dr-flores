@@ -1,0 +1,6 @@
+export * from "./Hero"
+export * from "./AboutMe"
+export * from "./Services"
+export * from "./Therapies"
+export * from "./Contact"
+export * from "./ContactForm"
